@@ -1,7 +1,9 @@
 # Read-from-CSV
 
 ## AIM:
-
+To write a python program for reading the csv file content.
+## EQUIPMENTS REQUIRED:
+PC Anaconda - Python 3.7
 ## ALGORITHM:
 ### Step 1:
 Load the CSV into a DataFrame.
